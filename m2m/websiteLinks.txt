@@ -1,0 +1,8 @@
+Links for M2M
+
+
+<p><a href="https://j.mp/menscheslp"> - Awesome password manager with web access</a></p>
+
+<p><a href="mail.zoho.com"> - Free domain mail accounts</a></p>
+
+<p><a href="https://j.mp/menschesk"> - Awesome web IDE with AWS virtual box to test things with</a></p>

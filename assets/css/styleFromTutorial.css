@@ -10,37 +10,17 @@ header {
 	margin-left: 10px;
 	margin-right: 10px;
 }
-h1 {
+h1 h2 h3 h4 h5 h6 {
 	font-family: ubuntu;
 	text-align: center;
 	margin: 2px;
 	padding: 0px;
 }
-h2 {
-	font-family: ubuntu;
-	text-align: center;
-	margin: 2px;
-	padding: 0px;
-}
-h3 {
-	font-family: ubuntu;
-	text-align: center;
-	margin: 2px;
-	padding: 0px;
-}
+
 h4 {
-	font-family: ubuntu;
-	text-align: center;
-	margin: 2px;
-	padding: 0px;
 	font-weight: 400;
 }
-h5 {
-	font-family: ubuntu;
-	text-align: center;
-	margin: 2px;
-	padding: 0px;
-}
+
 nav ul {
 	list-style: none;
 	margin: 0px;
